@@ -1,0 +1,80 @@
+#H3
+{
+    font-size: 100px;
+    color: rgb(190, 137, 1);
+    text-shadow: 10px 9px 0px rgb(255, 204, 109);
+
+}
+
+#H2
+{
+    font-size: 35px;
+    color: rgb(190, 137, 1);
+    text-shadow: 10px 9px 0px rgb(255, 200, 97);
+}
+
+#Vol
+{
+    font-size: 50px;
+    color: rgb(159, 100, 0);
+    box-shadow: 5px 7px 0px goldenrod;  
+}
+
+#Spe
+{
+    font-size: 50px;
+    color: rgb(159, 100, 0);
+    box-shadow: 5px 7px 0px goldenrod;
+}
+
+body
+{
+    background-size: 30px;
+}
+
+#Span1
+{
+    
+}
+
+
+
+
+
+.div_speed
+{
+    float: left;
+}
+
+.div_speed_gif
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#speed
+{
+    font-size: 23px;
+    margin: 15px;
+}
+
+
+
+
+
+.div_vol
+{
+    float: right;
+}
+
+.div_vol_gif
+{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#vol
+{
+    font-size: 23px;
+    margin: 15px;
+}
